@@ -2,7 +2,7 @@
 
 This is my submission for the AfriCapital Pro PM III case study: preparing Kesho Capital's first onboarding-sprint demo, a plan for building it, and a way of knowing afterward whether it actually worked.
 
-**Live prototype:** [`https://musediq.github.io/kesho-portfolio-monitor/AfriCapital_Pro__standalone_.html`](https://musediq.github.io/kesho-portfolio-monitor/AfriCapital_Pro__standalone_.html)
+**Live prototype:** [`https://musediq.github.io/kesho-portfolio-monitor/AfriCapital%20Pro%20%28standalone%29.html`](https://musediq.github.io/kesho-portfolio-monitor/AfriCapital%20Pro%20%28standalone%29.html)
 
 Open the link above to see it running. The raw file below is large and minified, so GitHub's own file preview can fail to render it — that's a GitHub viewer limitation, not a problem with the prototype itself.
 
@@ -10,7 +10,7 @@ Open the link above to see it running. The raw file below is large and minified,
 
 | # | Deliverable | File |
 |---|---|---|
-| 1 | Working prototype | [`AfriCapital_Pro__standalone_.html`](./AfriCapital_Pro__standalone_.html) — use the live link above, not this one, to actually view it |
+| 1 | Working prototype | [`AfriCapital Pro (standalone).html`](./AfriCapital%20Pro%20%28standalone%29.html) — use the live link above, not this one, to actually view it |
 | 2 | Portfolio data | [`Kesho-seed-data.xlsx`](./Kesho-seed-data.xlsx) |
 | 3 | Data model and reporting note | [`01-data-model-and-reporting-note.md`](./01-data-model-and-reporting-note.md) |
 | 4 | MVP scope and backlog | [`02-mvp-scope-and-backlog.md`](./02-mvp-scope-and-backlog.md) |
